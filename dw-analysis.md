@@ -34,6 +34,3 @@ FACT_ORDER_ITEMS: سطر منتج واحد داخل الطلب (Order Item Level
 - olist_order_payments ↔ olist_orders (order_id) — تحقق من التكرار
 - olist_products ↔ product_category_name_translation (product_category_name)
 
-## Open Decisions Before Phase 3
-1. هل Payment Value هيتحط في FACT_ORDER_ITEMS (بعد التجميع) أو جدول حقائق منفصل؟
-2. هل DIM_REVIEW هتتضاف فعلياً في النسخة الأولى، ولا تُأجل؟
