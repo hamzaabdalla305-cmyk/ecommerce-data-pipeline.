@@ -218,3 +218,39 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# =========================
+# Local Data Files
+# =========================
+
+# Ignore local raw and processed data
+data/raw/
+data/processed/
+
+# Ignore local data exports and database files
+*.sqlite
+*.sqlite3
+*.db
+
+# =========================
+# Logs and Temporary Outputs
+# =========================
+
+logs/
+*.log
+output/
+temp/
+
+# =========================
+# Environment and Secrets
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# Local Credentials and Config
+# =========================
+
+.streamlit/secrets.toml
