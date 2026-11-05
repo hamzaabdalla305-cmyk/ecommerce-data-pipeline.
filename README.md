@@ -76,8 +76,8 @@ CSV files → source profiling → Python ETL (extract, clean, transform) → Po
 
 ## Team
 
-- Al-Fatih Bashir Abdalla Mohammed
 - Abdullah Hamza Haroun Abdalla
+- Al-Fatih Bashir Abdalla Mohammed
 - Ali Ahmed Babiker Al-Khazina
 - Mohammed Khalid Al-Tayeb Othman
 - Musab Babiker Abdalla Idris
